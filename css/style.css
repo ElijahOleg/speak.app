@@ -1,0 +1,12 @@
+#header {
+    background-color: wheat;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    text-align: -webkit-center;
+    height: 350px;
+}
+#create-user{
+  position: relative;
+}
